@@ -2259,6 +2259,11 @@ global@^4.3.2:
     min-document "^2.19.0"
     process "^0.11.10"
 
+gopher-lib@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/gopher-lib/-/gopher-lib-0.2.0.tgz#9abf5492122bc9d63800878e40128f04df3121ea"
+  integrity sha1-mr9UkhIrydY4AIeOQBKPBN8xIeo=
+
 graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.1.15"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
